@@ -22,7 +22,7 @@ After all sequences are checked for matching, in the end, the hand with the most
 This one uses a simple **discrete markov chains**, where, the next hand that the computer will play depend only the last hand played
 by the player.
 
-For more about **markov chains** read [here](https://setosa.io/ev/markov-chains/)
+For more about **markov chains** and conditional click [here](https://setosa.io/ev/markov-chains/)
 
 ## M3
 This one uses **online machine learning** model **hoefidding classifier** from python 
